@@ -1,0 +1,7 @@
+you can type npm init on your project to initialize npm into your project
+type of error
+1. syntax error =   human error like typos but can fix where you run on terminal
+                    because always show on terminal where have error
+2. runtime error =  on terminal ok but if look on application like browser it not show as we need
+                    like syntax error show on terminal where have error but different on syntax error
+3. logical error = terminal ok, but on application it's not as we need data or view
